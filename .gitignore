@@ -1,0 +1,8 @@
+# Ignorar todas las carpetas y su contenido
+*/
+
+# Ignorar todos los archivos dentro de las carpetas
+*/*
+
+# No ignorar archivos en la raíz del repositorio
+!/*
