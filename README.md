@@ -17,6 +17,7 @@ El propósito principal de este proyecto es simplificar el manejo de múltiples 
    **Comando para ejecutarlo:**
    ```bash
    ./descarga.sh
+   ```
 
 ### 2. **`start.sh`**
    - **Función**: El segundo componente del sistema es start.sh, el cual gestiona la instalación de dependencias (usando pip) y la ejecución de los archivos main.py de cada proyecto como procesos en segundo plano.
@@ -25,6 +26,7 @@ El propósito principal de este proyecto es simplificar el manejo de múltiples 
    **Comando para ejecutarlo:**
    ```bash
    ./start.sh
+   ```
 
 El repositorio debe estar dentro de la carpeta `/home/user/proyectos`.
 
